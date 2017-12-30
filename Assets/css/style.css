@@ -1,0 +1,43 @@
+html {
+	padding: 0px;
+	margin: 0px;
+}
+.navbar-travel {
+	margin-bottom: 0px;
+	position: fixed;
+	width: 100%;
+	padding-top: 28px;
+	z-index: 30;
+}
+.masthead {
+	margin-bottom: 50px;
+  background: no-repeat center center;
+  background-color: #777;
+  background-attachment: scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  min-height: 495px;
+}
+.content-header {
+	padding-top: 240px;
+}
+.masthead .title-head {
+  font-size: 32px;
+  color: white;
+  text-shadow: 2px 2px 9px #a9a8a8;
+}
+.btn-gradient {
+	margin-top: 10px;
+  border-radius: 100px;
+  padding: 8px 40px;
+  background: rgba(250,83,65,1);
+  background: -moz-linear-gradient(-45deg, rgba(250,83,65,1) 0%, rgba(250,83,65,1) 19%, rgba(250,48,100,1) 81%, rgba(250,48,100,1) 100%);
+  background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(250,83,65,1)), color-stop(19%, rgba(250,83,65,1)), color-stop(81%, rgba(250,48,100,1)), color-stop(100%, rgba(250,48,100,1)));
+  background: -webkit-linear-gradient(-45deg, rgba(250,83,65,1) 0%, rgba(250,83,65,1) 19%, rgba(250,48,100,1) 81%, rgba(250,48,100,1) 100%);
+  background: -o-linear-gradient(-45deg, rgba(250,83,65,1) 0%, rgba(250,83,65,1) 19%, rgba(250,48,100,1) 81%, rgba(250,48,100,1) 100%);
+  border: 0px;
+  box-shadow: none;
+  font-size: 16px;
+}
